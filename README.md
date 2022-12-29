@@ -1,10 +1,12 @@
 ### Hi world, InTostor here 🛩
 
-I know python, lua
+I know python, lua, java, php
 
-Learning java, c
+Learning c++, js
 
 Minecraft server hoster
+
+Frontend and backend website developer
 
 Have great experience in 3d-printing, cnc operating
 
