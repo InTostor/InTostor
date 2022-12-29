@@ -8,8 +8,6 @@ Minecraft server hoster
 
 Frontend and backend website developer
 
-Have great experience in 3d-printing, cnc operating
+Have great experience in 3d-printing, cnc operating, aircraft building and operating
 
-Several years ago i started building rc aircrafts (planes, multirotors)
-
-Interested in aerospace engineering, navigation system developing, etc
+Interested in aerospace engineering, navigation system developing, radio systems, data transmission
