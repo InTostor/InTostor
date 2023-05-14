@@ -2,7 +2,7 @@
 
 I know python, lua, java, php
 
-Learning c++, js
+Learning c++, js, Docker, Android app development
 
 Minecraft server hoster
 
