@@ -4,7 +4,7 @@ I know python, lua, java, php
 
 Learning c++, js, Docker, Android app development
 
-Minecraft server hoster
+not the Minecraft server hoster
 
 Frontend and backend website developer
 
